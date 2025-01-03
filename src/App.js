@@ -53,7 +53,7 @@ const App = () => {
             >
               <span className="bg-gray-100 px-3 py-1">{task.text}</span>
               <button onClick={() => toggleTask(index)} className="bg-black text-white px-2 py-1 rounded">
-                {task.done ? "Not Done" : "Done"}
+                {task.done ? "Undo" : "Done"}
               </button>
             </li>
           ))}
