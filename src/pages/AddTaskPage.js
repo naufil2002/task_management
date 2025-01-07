@@ -6,12 +6,20 @@ const AddTaskPage = () => {
   const navigate = useNavigate();
 
   const handleTaskSubmit = () => {
-    if (newTask.trim()) {
-      const tasks = JSON.parse(localStorage.getItem("tasks")) || [];
-      localStorage.setItem("tasks", JSON.stringify([...tasks, { text: newTask, done: false }]));
-      setNewTask("");
-      navigate("/tasks");
+    if (!newTask.trim()) return;
+
+    const tasks = JSON.parse(localStorage.getItem("tasks")) || [];
+
+    const taskExists = tasks.some(task => task.text === newTask.trim());
+
+    if (taskExists) {
+      alert("Task already exists! Create a new one");
+      return;
     }
+
+    localStorage.setItem("tasks", JSON.stringify([...tasks, { text: newTask, done: false }]));
+    setNewTask("");
+    navigate("/tasks");
   };
 
   return (
