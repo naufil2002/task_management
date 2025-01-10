@@ -6,20 +6,12 @@ const AddTaskPage = () => {
   const navigate = useNavigate();
 
   const handleTaskSubmit = () => {
-    if (!newTask.trim()) return;
-
-    const tasks = JSON.parse(localStorage.getItem("tasks")) || [];
-
-    const taskExists = tasks.some(task => task.text === newTask.trim());
-
-    if (taskExists) {
-      alert("Task already exists! Create a new one");
-      return;
+    if (newTask.trim()) {
+      const tasks = JSON.parse(localStorage.getItem("tasks")) || [];
+      localStorage.setItem("tasks", JSON.stringify([...tasks, { text: newTask, done: false }])); 
+      setNewTask("");
+      navigate("/tasks");
     }
-
-    localStorage.setItem("tasks", JSON.stringify([...tasks, { text: newTask, done: false }]));
-    setNewTask("");
-    navigate("/tasks");
   };
 
   return (
@@ -43,6 +35,12 @@ const AddTaskPage = () => {
         className="mt-4 bg-blue-500 text-white px-4 py-2 rounded"
       >
         View Tasks
+      </button>
+      <button
+        onClick={() => navigate("/menu")}
+        className="mt-4 bg-green-500 text-white px-4 py-2 rounded"
+      >
+        View Menu
       </button>
     </div>
   );

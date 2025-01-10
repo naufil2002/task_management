@@ -10,19 +10,18 @@ const ViewTasksPage = () => {
     setTasks(savedTasks);
   }, []);
 
-  const updateTasks = (updatedTasks) => {
+  const toggleTask = (index) => {
+    const updatedTasks = tasks.map((task, idx) =>
+      idx === index ? { ...task, done: !task.done } : task
+    );
     setTasks(updatedTasks);
     localStorage.setItem("tasks", JSON.stringify(updatedTasks));
   };
 
-  const toggleTask = (index) => {
-    updateTasks(
-      tasks.map((task, idx) => (idx === index ? { ...task, done: !task.done } : task))
-    );
-  };
-
   const deleteTask = (index) => {
-    updateTasks(tasks.filter((_, idx) => idx !== index));
+    const updatedTasks = tasks.filter((_, idx) => idx !== index);
+    setTasks(updatedTasks);
+    localStorage.setItem("tasks", JSON.stringify(updatedTasks));
   };
 
   return (
@@ -67,6 +66,12 @@ const ViewTasksPage = () => {
         className="mt-4 bg-blue-500 text-white px-4 py-2 rounded"
       >
         Go to Home
+      </button>
+      <button
+        onClick={() => navigate("/menu")}
+        className="mt-4 bg-green-500 text-white px-4 py-2 rounded"
+      >
+        View Menu
       </button>
     </div>
   );

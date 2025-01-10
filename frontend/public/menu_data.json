@@ -1,0 +1,1332 @@
+[
+    {
+        "name": "Classic Family Feast for 4 - Veg",
+        "price": "731",
+        "description": "Save Rs. 200 | 2 Crispy Veg + BK Veggie + Veg Crunchy Taco + 2 Med Fries + 2 Dips + Coca Cola Medium + Chocolate Thick Shake.\nKcal: 2926.9 | Carbs 332.3 Gms| Sugar: 145 Gms| Fat: 114.9 Gms| Saturated fat: 51.7 Gms| Protein: 55.8 Gms| Sodium: 4274 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "Premium Family Feast for 4 - Chicken",
+        "price": "982",
+        "description": "Kcal: 3321.6 | Carbs 1228.2 Gms| Sugar: 147.2 Gms| Fat: 141.8 Gms| Saturated fat: 49.1 Gms| Protein: 89.2 Gms| Sodium: 5008.5 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Crispy Veg Burger",
+        "price": "70",
+        "description": "Masaledar Veg Patty, Onion & Our Signature Tomato Herby Sauce. \nQty: 137 Gms| Kcal: 362 | Carbs 53.4 Gms| Sugar: 6.5 Gms| Fat: 12.8 Gms| Saturated fat: 4.9 Gms| Protein: 8.4 Gms| Sodium: 798.2 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Crispy Chicken Burger",
+        "price": "99",
+        "description": "Crispy Chicken Patty, Onion & Our Signature Tomato Herby Sauce. \nQty: 125 Gms| Kcal: 359.1 | Carbs 44.3 Gms| Sugar: 7.5 Gms| Fat: 15.1 Gms| Saturated fat: 4.8 Gms| Protein: 11.5 Gms| Sodium: 592.4 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Crispy Veg Double Patty Burger",
+        "price": "99",
+        "description": "Double Masaledar Veg Patty, Onion & Our Signature Tomato Herby Sauce. \nQty: 204 Gms| Kcal: 531.4 | Carbs 70.6 Gms| Sugar: 9.1 Gms| Fat: 22.7 Gms| Saturated fat: 9.2 Gms| Protein: 11.2 Gms| Sodium: 1068 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Crispy Chicken Double Patty Burger",
+        "price": "139",
+        "description": "Double Crispy Chicken Patty, Onion & Our Signature Tomato Herby Sauce.\nQty: 182 Gms| Kcal: 535.1 | Carbs 52.7 Gms| Sugar: 10.2 Gms| Fat: 28.3 Gms| Saturated fat: 10.4 Gms| Protein: 17.4 Gms| Sodium: 887.1 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Crispy Veg Double Patty + Crispy Veg Double Patty",
+        "price": "198",
+        "description": "2 Crispy Veg Double patty \nQty: 408 Gms| Kcal: 1062.8 | Carbs 141.2 Gms| Sugar: 18.2 Gms| Fat: 45.4 Gms| Saturated fat: 18.4 Gms| Protein: 22.4 Gms| Sodium: 2136 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Veg Makhani Burst + Whopper Jr Veg",
+        "price": "229",
+        "description": "Veg Makhani + Whopper Jr Veg \nQty: 329 Gms| Kcal: 771 | Carbs 110.1 Gms| Sugar: 17.2 Gms| Fat: 29.2 Gms| Saturated fat: 15.3 Gms| Protein: 16.8 Gms| Sodium: 2196.1 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "4 Crispy Veg + 2 Medium Fries",
+        "price": "400",
+        "description": "4 Crispy Veg + 2 Medium Fries \nQty: 728 Gms| Kcal: 2101.2 | Carbs 1068.1 Gms| Sugar: 29.9 Gms| Fat: 89.2 Gms| Saturated fat: 32.7 Gms| Protein: 57.6 Gms| Sodium: 3427.2 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "Medium Fries",
+        "price": "119",
+        "description": "The Perfect Crispy Partner.\nQty: 114 Gms| Kcal: 332.5 | Carbs 445.39 Gms| Sugar: 0 Gms| Fat: 14.4 Gms| Saturated fat: 6.8 Gms| Protein: 5.9 Gms| Sodium: 528.8 Mg \nContains: Gluten"
+    },
+    {
+        "name": "King Fries",
+        "price": "139",
+        "description": "The Perfect Crispy Partner \nQty: 156 Gms| Kcal: 455 | Carbs 609.48 Gms| Sugar: 0 Gms| Fat: 19.7 Gms| Saturated fat: 9.31 Gms| Protein: 8 Gms| Sodium: 723.7 Mg \nContains: Gluten"
+    },
+    {
+        "name": "King Peri Peri Fries",
+        "price": "159",
+        "description": "Crispy Fries With Tangy Peri Peri Spice.  \nQty: 161 Gms| Kcal: 467.8 | Carbs 611.7 Gms| Sugar: 0.9 Gms| Fat: 20 Gms| Saturated fat: 9.3 Gms| Protein: 8.4 Gms| Sodium: 1193.7 Mg \nContains: Gluten, Soybean"
+    },
+    {
+        "name": "Chocolate Thick Shake",
+        "price": "189",
+        "description": "Qty:  Gms300 ML| Kcal: 496.08 | Carbs 87.69 Gms| Sugar: 61.44 Gms| Fat: 11.28 Gms| Saturated fat: 7.17 Gms| Protein: 10.95 Gms| Sodium: 10.68 Mg \nContains: , Soybean , Milk"
+    },
+    {
+        "name": "2BK Veggie Burgers",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "3 Fries(R)",
+        "price": "135",
+        "description": "No description"
+    },
+    {
+        "name": "2BK Veggie Burgers+Veg Whopper+3Fries(R )+2Coke",
+        "price": "464",
+        "description": "No description"
+    },
+    {
+        "name": "BK Chicken Peri Peri Meal ( R )",
+        "price": "181",
+        "description": "No description"
+    },
+    {
+        "name": "Crunchy Chicken Taco Peri Peri Meal (R)",
+        "price": "166",
+        "description": "No description"
+    },
+    {
+        "name": "Crunchy Veg Taco Peri Peri Meal (R)",
+        "price": "152",
+        "description": "No description"
+    },
+    {
+        "name": "2BK Veggie Burgers+Crispy Veg Burger+3Fries( R )",
+        "price": "309",
+        "description": "No description"
+    },
+    {
+        "name": "Whopper Jr Veg+BK Veggie Burger+2Fries(M)+2Fiery Hell Dip",
+        "price": "287",
+        "description": "No description"
+    },
+    {
+        "name": "Whopper Jr Veg + Peri Peri Fries (Reg)",
+        "price": "134",
+        "description": "No description"
+    },
+    {
+        "name": "Crunchy Veg Taco+BK Veggie Burger+Fries(M)+2Coke",
+        "price": "269",
+        "description": "No description"
+    },
+    {
+        "name": "Whopper Jr Chicken+Fries( R )+Coke",
+        "price": "177",
+        "description": "No description"
+    },
+    {
+        "name": "Mocha Frappe+Fries(R )",
+        "price": "180",
+        "description": "No description"
+    },
+    {
+        "name": "Crispy Veg Burger.",
+        "price": "59",
+        "description": "No description"
+    },
+    {
+        "name": "Veg Makhani Burst Burger.",
+        "price": "59",
+        "description": "No description"
+    },
+    {
+        "name": "Regular Fries.",
+        "price": "59",
+        "description": "No description"
+    },
+    {
+        "name": "BK Chicken Pizza Puff.",
+        "price": "59",
+        "description": "No description"
+    },
+    {
+        "name": "BK Veg Pizza Puff.",
+        "price": "59",
+        "description": "No description"
+    },
+    {
+        "name": "Veggie Strips - 5 Pcs.",
+        "price": "59",
+        "description": "No description"
+    },
+    {
+        "name": "Whopper Jr Veg.",
+        "price": "99",
+        "description": "Our Signature Whopper with Crunchy Veg Patty, Onions, Lettuce, Tomatoes (Seasonal), Gherkins, Creamy And Smoky Sauces \nQty: 194 Gms| Kcal: 456 | Carbs 61.6 Gms| Sugar: 9.2 Gms| Fat: 20 Gms| Saturated fat: 11.9 Gms| Protein: 7.2 Gms| Sodium: 1428.1 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "BK Chicken Burger.",
+        "price": "99",
+        "description": "BK Chicken Patty, Lettuce, Tomato(Seasonal) & Our Signature Mayo Sauce. \nQty: 164 Gms| Kcal: 415 | Carbs 39 Gms| Sugar: 7.2 Gms| Fat: 21.2 Gms| Saturated fat: 7.2 Gms| Protein: 17 Gms| Sodium: 283.9 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Saucy Fries.",
+        "price": "99",
+        "description": "No description"
+    },
+    {
+        "name": "Medium Peri Peri Fries.",
+        "price": "99",
+        "description": "Crispy Fries With Tangy Peri Peri Spice.  \nQty: 119 Gms| Kcal: 345.3 | Carbs 447.6 Gms| Sugar: 0.9 Gms| Fat: 14.7 Gms| Saturated fat: 6.8 Gms| Protein: 6.3 Gms| Sodium: 998.8 Mg \nContains: Soybean, Milk"
+    },
+    {
+        "name": "BK Veggie Burger.",
+        "price": "99",
+        "description": "BK Veg Patty, Lettuce, Tomato(Seasonal) & Our Signature Mayo Sauce. \nQty: 152 Gms| Kcal: 352.5 | Carbs 45.4 Gms| Sugar: 7.8 Gms| Fat: 13.6 Gms| Saturated fat: 4.7 Gms| Protein: 12 Gms| Sodium: 593.8 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Crispy Chicken Double Patty Burger.",
+        "price": "99",
+        "description": "No description"
+    },
+    {
+        "name": "Crispy Veg+Veggie Strips.",
+        "price": "99",
+        "description": "No description"
+    },
+    {
+        "name": "Crispy Veg Burger+BK Veg Pizza Puff.",
+        "price": "99",
+        "description": "No description"
+    },
+    {
+        "name": "BK Chicken Pizza Puff + Fiery Hell Dip.",
+        "price": "99",
+        "description": "No description"
+    },
+    {
+        "name": "Cappuccino Small.",
+        "price": "99",
+        "description": "No description"
+    },
+    {
+        "name": "BK Veg Pizza Puff+Coke.",
+        "price": "99",
+        "description": "No description"
+    },
+    {
+        "name": "Crispy Veg Double Patty Burger with Double Cheese Slice.",
+        "price": "99",
+        "description": "No description"
+    },
+    {
+        "name": "King Fries.",
+        "price": "99",
+        "description": "No description"
+    },
+    {
+        "name": "Ice Latte.",
+        "price": "99",
+        "description": "No description"
+    },
+    {
+        "name": "Veg Makhani Burst Double Cheese Burger.",
+        "price": "99",
+        "description": "No description"
+    },
+    {
+        "name": "Chicken Makhani Burst Burger with Cheese.",
+        "price": "99",
+        "description": "No description"
+    },
+    {
+        "name": "Crunchy Chicken Nuggets (4pcs)+Fiery Hell Dip.",
+        "price": "99",
+        "description": "No description"
+    },
+    {
+        "name": "Chicken Wings Fried - 2pcs.",
+        "price": "99",
+        "description": "No description"
+    },
+    {
+        "name": "Crunchy Chicken Taco.",
+        "price": "99",
+        "description": "No description"
+    },
+    {
+        "name": "Veg Whopper Jr+Coca Cola Medium.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "2 Med Fries.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "BK Veggie Burger + Veg Taco.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Veg Makhani Burst Burger+ Medium Peri Peri Fries.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Crispy Veg Double Patty Burger with Double Cheese Slice+Cola Medium.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Chicken Whopper Jr Double Patty.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Whopper Jr Veg+ Crispy Veg.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Crispy Chicken + Crunchy Chicken Taco.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Chicken Makhani Burst Burger+Fries(Reg)+Peri Peri Sachet.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "1Crispy Veg Double Patty + 1Med Fries.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Crispy Veg Burger+Fries(M)+Peri Peri Sachet.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "BK Veggie Double Patty Burger with Double Cheese Slice.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "BK Veggie Burger + Crispy Veg Burger.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Crispy Chicken + Med Fries.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Chicken Whopper.",
+        "price": "139",
+        "description": "Our Signature Whopper with Flame Grilled Chicken Patty, Onions, Lettuce, Tomatoes (Seasonal), Gherkins, Creamy And Smoky Sauces With Xxl Buns. \nQty: 280 Gms| Kcal: 667.2 | Carbs 59.1 Gms| Sugar: 8.7 Gms| Fat: 36.3 Gms| Saturated fat: 8.1 Gms| Protein: 26.2 Gms| Sodium: 1018.7 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Mocha Cappuccino (Small).",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Classic Cold Coffee.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Crispy Chicken + Crispy Chicken.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Whopper Jr Chicken with Cheese Slice.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Crispy Chicken + Chicken Nuggets (4Pcs).",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Double Crispy Veg + Double Crispy Veg.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Crispy Chicken Double Patty Burger with Double Cheese Slice.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Cappuccino Reg.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Crispy Veg Double Patty Burger+Veg Crunchy Taco.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Chocolate Shake.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Crispy Chicken with Cheese Slice + Fries (Reg).",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Veg Whopper.",
+        "price": "139",
+        "description": "Our Signature Whopper with Crunchy Veg Patty, Onions, Lettuce, Tomatoes (Seasonal), Gherkins, Creamy And Smoky Sauces With Xxl Buns. \nQty: 285 Gms| Kcal: 681.2 | Carbs 97.1 Gms| Sugar: 23.1 Gms| Fat: 25.4 Gms| Saturated fat: 9.8 Gms| Protein: 15.8 Gms| Sodium: 987.8 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Whopper Jr Veg with Cheese Slice.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "(6Pc) Crunchy Chicken Nuggets + 1 Dip.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Veggie Strips - 5Pcs + Chocolate Mousse Cup.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Veggie Strips - 5Pcs + Choco Lava Cup.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Boneless Wings Regular.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Chicken Wings Fried - Four Pieces.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Mango Shake.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Veg Whopper Jr + BK Veg Pizza Puff.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "BK Veggie Burger + BK Veg Pizza Puff.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "BK Veg Pizza Puff + Peri Peri Fries(M).",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "BK Chicken Burger + BK Veg Pizza Puff.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Iced Americano.",
+        "price": "139",
+        "description": "Our signature Arabica espresso with ice\nQty: 330 GmsML| Kcal: 9.9 | Carbs 0.19 Gms| Sugar: 0 Gms| Fat: 0 Gms| Saturated fat: 0 Gms| Protein: 2.31 Gms| Sodium: 4.7 Mg"
+    },
+    {
+        "name": "Fries(M)Peri Peri+Fries(Reg).",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "BK Veggie Burger+Veg Makhani Burst Burger.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Crispy Veg Burger+Coke+Masala Hashbrown.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Crispy Veg Double Patty Burger+Peri Peri Fries(Reg).",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Crispy Chicken Burger+Peri Peri Fries(Reg).",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Iced Latte.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "BK Chicken Pizza Puff + Coke.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "BK Veggie Triple Cheese Burger.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Crispy Chicken Triple Cheese Burger.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "Whopper Jr Veg Stacker.",
+        "price": "139",
+        "description": "No description"
+    },
+    {
+        "name": "BK Veggie Burger+Fries(Reg)+Coca Cola,",
+        "price": "169",
+        "description": "Kcal: 683.63 | Carbs 353.64 Gms | Sugar: 42.39 Gms | Fat: 22.48 Gms | Saturated fat: 8.88 Gms | Protein: 15.6 Gms | Sodium: 944.2 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "2 Veg Whopper Jr,",
+        "price": "169",
+        "description": "Qty: 317 Gms | Kcal: 797.1 | Carbs 77.50 Gms | Sugar: 13.05 Gms | Fat: 44.31 Gms | Saturated fat: 15.86 Gms | Protein: 22.48 Gms | Sodium: 1412.94 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "Classic Cold Coffee+Fries(Reg),",
+        "price": "169",
+        "description": "Qty: 422 Gms | Kcal: 419.3 | Carbs 297.75 Gms | Sugar: 8.855 Gms | Fat: 18.3 Gms | Saturated fat: 25.145 Gms | Protein: 10.565 Gms | Sodium: 465 Mg \nContains: Gluten, Milk"
+    },
+    {
+        "name": "2 BK Veggie Burgers,",
+        "price": "169",
+        "description": "No description"
+    },
+    {
+        "name": "Crispy Chicken Burger+Fries(Reg)+Coca Cola,",
+        "price": "169",
+        "description": "Kcal: 690.2 | Carbs 352.5 Gms | Sugar: 42.1 Gms | Fat: 24 Gms | Saturated fat: 9 Gms | Protein: 15.1 Gms | Sodium: 942.8 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "Crispy Veg Double Patty Burger+Fries(Reg)+Coca Cola,",
+        "price": "169",
+        "description": "Kcal: 862.5 | Carbs 378.8 Gms | Sugar: 43.7 Gms | Fat: 31.55 Gms | Saturated fat: 13.38 Gms | Protein: 14.8 Gms | Sodium: 1418.4 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "Mocha Frappe,",
+        "price": "169",
+        "description": "Qty: 350 Gms | Kcal: 328 | Carbs 48.3 Gms | Sugar: 10.4 Gms | Fat: 10.2 Gms | Saturated fat: 38.2 Gms | Protein: 8.7 Gms | Sodium: 94.5 Mg \nContains: , Milk"
+    },
+    {
+        "name": "Crispy Veg Burger+Classic Cold Coffee,",
+        "price": "169",
+        "description": "Qty: 487 Gms | Kcal: 577.2 | Carbs 77.6 Gms | Sugar: 15.4 Gms | Fat: 22.3 Gms | Saturated fat: 25.8 Gms | Protein: 15.4 Gms | Sodium: 938.2 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "2 King Fries,",
+        "price": "169",
+        "description": "No description"
+    },
+    {
+        "name": "2 Crunchy Veg Taco+Fries(M),",
+        "price": "169",
+        "description": "Qty: 324 Gms | Kcal: 1004.7 | Carbs 0 Gms | Sugar: 128.2 Gms | Fat: 56 Gms | Saturated fat: 34.6 Gms | Protein: 13.1 Gms | Sodium: 1708 Mg \nContains: Gluten, Soybean , Milk"
+    },
+    {
+        "name": "Saucy Fries+Fries(M),",
+        "price": "169",
+        "description": "No description"
+    },
+    {
+        "name": "Chocolate Thick Shake + Crispy Veg Burger,",
+        "price": "169",
+        "description": "No description"
+    },
+    {
+        "name": "Crispy Chicken Burger + BK Chicken Burger,",
+        "price": "169",
+        "description": "No description"
+    },
+    {
+        "name": "Chicken Whopper Jr +Chicken Fried Wings(2pcs),",
+        "price": "169",
+        "description": "Qty: 237 Gms | Kcal: 519 | Carbs 51.5033 Gms | Sugar: 8.35 Gms | Fat: 23.0274 Gms | Saturated fat: 9.7623 Gms | Protein: 33.936 Gms | Sodium: 1718.29 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "Crispy Chicken Double Patty Burger+Crunchy Chicken Taco,",
+        "price": "169",
+        "description": "Qty: 317 Gms | Kcal: 797.1 | Carbs 77.50 Gms | Sugar: 13.05 Gms | Fat: 44.31 Gms | Saturated fat: 15.86 Gms | Protein: 22.48 Gms | Sodium: 1412.94 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "Crispy Veg Burger+Fries(Reg)+Coca Cola,",
+        "price": "169",
+        "description": "Kcal: 693.3 | Carbs 361.6 Gms | Sugar: 41.1 Gms | Fat: 21.7 Gms | Saturated fat: 9 Gms | Protein: 12 Gms | Sodium: 1148.6 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "Crispy Chicken+Crunchy Chicken Nuggets(6Pcs),",
+        "price": "169",
+        "description": "Qty: 251 Gms | Kcal: 695.91 | Carbs 69.35 Gms | Sugar: 9.68 Gms | Fat: 33.9 Gms | Saturated fat: 11.79 Gms | Protein: 28.25 Gms | Sodium: 875.37 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "BK Chicken+Crunchy Chicken Nuggets(4pcs),",
+        "price": "169",
+        "description": "Qty: 234 Gms | Kcal: 583.7 | Carbs 53.3 Gms | Sugar: 7.5 Gms | Fat: 28.7 Gms | Saturated fat: 11 Gms | Protein: 27.9 Gms | Sodium: 289.8 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "Crispy Veg Double Patty Burger+Saucy Fries,",
+        "price": "169",
+        "description": "Qty: 358 Gms | Kcal: 992.4 | Carbs 110.7 Gms | Sugar: 12.4 Gms | Fat: 45.6 Gms | Saturated fat: 18.7 Gms | Protein: 18.2 Gms | Sodium: 1545.2 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "Crispy Chicken Burger+Saucy Fries,",
+        "price": "169",
+        "description": "Qty: 279 Gms | Kcal: 820.05 | Carbs 84.43 Gms | Sugar: 10.77 Gms | Fat: 38 Gms | Saturated fat: 14.28 Gms | Protein: 18.45 Gms | Sodium: 1069.6 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "Veg Whopper Jr + Crunchy Veg Taco,",
+        "price": "169",
+        "description": "No description"
+    },
+    {
+        "name": "Chicken Makhani Burst Burger + Crunchy Chicken Taco,",
+        "price": "169",
+        "description": "No description"
+    },
+    {
+        "name": "Crispy Veg Double Patty burger+Crispy Chicken Double Patty Burger,",
+        "price": "169",
+        "description": "Qty: 386 Gms | Kcal: 1066.5 | Carbs 123.3 Gms | Sugar: 19.3 Gms | Fat: 51 Gms | Saturated fat: 19.6 Gms | Protein: 28.6 Gms | Sodium: 1955.06 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "Chicken Whopper with Cheese Slice,",
+        "price": "169",
+        "description": "Qty: 292 Gms | Kcal: 708.2 | Carbs 59.6 Gms | Sugar: 9.2 Gms | Fat: 39.5 Gms | Saturated fat: 10.1 Gms | Protein: 28.6 Gms | Sodium: 1200.7 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "2 Crunchy Chicken Taco,",
+        "price": "169",
+        "description": "No description"
+    },
+    {
+        "name": "Fiery Chicken Wrap,",
+        "price": "169",
+        "description": "Qty: 252 Gms | Kcal: 483.8 | Carbs 50.6 Gms | Sugar: 9.3 Gms | Fat: 22.5 Gms | Saturated fat: 8.2 Gms | Protein: 19.8 Gms | Sodium: 1176.5 Mg \nContains: Gluten, Soybean , Milk"
+    },
+    {
+        "name": "Veg Whopper with Cheese Slice,",
+        "price": "169",
+        "description": "Qty: 297 Gms | Kcal: 753.2 | Carbs 88.3 Gms | Sugar: 9 Gms | Fat: 37.3 Gms | Saturated fat: 16.9 Gms | Protein: 16.2 Gms | Sodium: 1014.3 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "Chicken Tandoori Burger,",
+        "price": "169",
+        "description": "No description"
+    },
+    {
+        "name": "Paneer Royale Burger,",
+        "price": "169",
+        "description": "No description"
+    },
+    {
+        "name": "Hot 'N' Saucy Burger,",
+        "price": "169",
+        "description": "No description"
+    },
+    {
+        "name": "Fiery Chicken Burger,",
+        "price": "169",
+        "description": "No description"
+    },
+    {
+        "name": "(9Pc) Crunchy Chicken Nuggets + 2 Dips,",
+        "price": "169",
+        "description": "Qty: 200 Gms | Kcal: 548.3 | Carbs 39.3 Gms | Sugar: 4 Gms | Fat: 32 Gms | Saturated fat: 11.2 Gms | Protein: 25.4 Gms | Sodium: 401.3 Mg \nContains: , Soybean , Milk"
+    },
+    {
+        "name": "Crispy Veg Double Patty Burger + BK Veg Pizza Puff + Coke,",
+        "price": "169",
+        "description": "No description"
+    },
+    {
+        "name": "Crispy Chicken Burger + BK Veg Pizza Puff + Coke,",
+        "price": "169",
+        "description": "No description"
+    },
+    {
+        "name": "Cappuccino(S) + BK Veg Pizza Puff,",
+        "price": "169",
+        "description": "No description"
+    },
+    {
+        "name": "Chicken Whopper Jr + BK Veg Pizza Puff,",
+        "price": "169",
+        "description": "No description"
+    },
+    {
+        "name": "Chicken Makhani Burst+Fries(Reg)+Coke,",
+        "price": "169",
+        "description": "No description"
+    },
+    {
+        "name": "2 Peri Peri Fries(M),",
+        "price": "169",
+        "description": "No description"
+    },
+    {
+        "name": "Whopper Jr Veg+Fries(M),",
+        "price": "169",
+        "description": "No description"
+    },
+    {
+        "name": "Crunchy Chicken Taco+Fries(M),",
+        "price": "169",
+        "description": "No description"
+    },
+    {
+        "name": "Crispy Chicken Double Patty Burger+Fries(Reg),",
+        "price": "169",
+        "description": "No description"
+    },
+    {
+        "name": "3 Veg Makhani Burst Burger,",
+        "price": "169",
+        "description": "No description"
+    },
+    {
+        "name": "2 Veg Crunchy Tacos+Crispy Veg Burger,",
+        "price": "169",
+        "description": "No description"
+    },
+    {
+        "name": "Crispy Veg Burger+Iced Latte,",
+        "price": "169",
+        "description": "No description"
+    },
+    {
+        "name": "Crispy Chicken + BK Chicken Pizza Puff,",
+        "price": "169",
+        "description": "No description"
+    },
+    {
+        "name": "Crispy Veg Double Patty Meal,",
+        "price": "169",
+        "description": "No description"
+    },
+    {
+        "name": "Whopper Jr Veg Meal,",
+        "price": "169",
+        "description": "No description"
+    },
+    {
+        "name": "11Pc Boneless Wings",
+        "price": "329",
+        "description": "No description"
+    },
+    {
+        "name": "2 Crispy Chicken Burger + 4Pc Fried Wings + 2 Coca Cola",
+        "price": "359",
+        "description": "No description"
+    },
+    {
+        "name": "2Pc Fried Wings+4Pc Boneless+4Pc Nuggets+3 Dips+1 Coca Cola",
+        "price": "399",
+        "description": "No description"
+    },
+    {
+        "name": "Classic Family Feast for 4 - Veg",
+        "price": "731",
+        "description": "Save Rs. 200 | 2 Crispy Veg + BK Veggie + Veg Crunchy Taco + 2 Med Fries + 2 Dips + Coca Cola Medium + Chocolate Thick Shake.\nKcal: 2926.9 | Carbs 332.3 Gms| Sugar: 145 Gms| Fat: 114.9 Gms| Saturated fat: 51.7 Gms| Protein: 55.8 Gms| Sodium: 4274 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "Premium Family Feast for 4 - Veg",
+        "price": "953",
+        "description": "Kcal: 3398.8 | Carbs 1315.9 Gms| Sugar: 168.3 Gms| Fat: 128.6 Gms| Saturated fat: 55.4 Gms| Protein: 78.6 Gms| Sodium: 5328.1 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Premium Family Feast for 4 - Chicken",
+        "price": "982",
+        "description": "Kcal: 3321.6 | Carbs 1228.2 Gms| Sugar: 147.2 Gms| Fat: 141.8 Gms| Saturated fat: 49.1 Gms| Protein: 89.2 Gms| Sodium: 5008.5 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Classic Family Feast for 4 - Chicken",
+        "price": "828",
+        "description": "Save Rs. 200 | 2 Crispy Chicken + BK Chicken + Chicken Crunchy Taco + 2 Med Fries + 2 Dips + Coca Cola Medium + Chocolate Thick Shake.\nKcal: 2909 | Carbs 298.8 Gms| Sugar: 142.1 Gms| Fat: 122.3 Gms| Saturated fat: 45.6 Gms| Protein: 68.3 Gms| Sodium: 3488.8 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "Jr Whopper Stacker- Veg",
+        "price": "149",
+        "description": "No description"
+    },
+    {
+        "name": "Veg Whopper with Cheese Slice",
+        "price": "214",
+        "description": "Our Signature Whopper with Crunchy Veg Patty, Onions, Lettuce, Tomatoes (Seasonal), Gherkins, Creamy And Smoky Sauces With Xxl Buns and Cheese Slice. Served With Crispy Fries & Cola. \nQty: 297 Gms| Kcal: 753.2 | Carbs 88.3 Gms| Sugar: 9 Gms| Fat: 37.3 Gms| Saturated fat: 16.9 Gms| Protein: 16.2 Gms| Sodium: 1014.3 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Chicken Whopper with Cheese Slice",
+        "price": "234",
+        "description": "Our Signature Whopper with Flame Grilled Chicken Patty, Onions, Lettuce, Tomatoes (Seasonal), Gherkins, Creamy And Smoky Sauces With Xxl Buns and Cheese Slice. Served With Crispy Fries & Cola. \nQty: 292 Gms| Kcal: 708.2 | Carbs 59.6 Gms| Sugar: 9.2 Gms| Fat: 39.5 Gms| Saturated fat: 10.1 Gms| Protein: 28.6 Gms| Sodium: 1200.7 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Veg Whopper Double Patty",
+        "price": "258",
+        "description": "Our Signature Whopper With 7 Layers Between The Buns. Extra Crunchy Veg Double Patty, Fresh Onion, Crispy Lettuce, Juicy Tomatoes(seasonal), Tangy Gherkins, Creamy And Smoky Sauces With Xxl Buns. It\u2019S Not A Burger, It\u2019S A Whopper"
+    },
+    {
+        "name": "Chicken Whopper Double Patty",
+        "price": "288",
+        "description": "Our Signature Whopper With 7 Layers Between The Buns. Flame Grilled Chicken Double Patty, Fresh Onion, Crispy Lettuce, Juicy Tomatoes(seasonal), Tangy Gherkins, Creamy And Smoky Sauces With Xxl Buns. It\u2019S Not A Burger, It\u2019S A Whopper"
+    },
+    {
+        "name": "Paneer Royale Wrap",
+        "price": "229",
+        "description": "60 gm Paneer Patty, Sauces In Soft Tortilla Wrap. \nQty: 234 Gms| Kcal: 676.2 | Carbs 63.2 Gms| Sugar: 9.7 Gms| Fat: 35.6 Gms| Saturated fat: 18 Gms| Protein: 25.3 Gms| Sodium: 1077.9 Mg \nContains: Gluten, Soybean, Milk"
+    },
+    {
+        "name": "Crispy Veg Burger",
+        "price": "70",
+        "description": "Masaledar Veg Patty, Onion & Our Signature Tomato Herby Sauce. \nQty: 137 Gms| Kcal: 362 | Carbs 53.4 Gms| Sugar: 6.5 Gms| Fat: 12.8 Gms| Saturated fat: 4.9 Gms| Protein: 8.4 Gms| Sodium: 798.2 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Chicken Makhani Burst Burger",
+        "price": "109",
+        "description": "2 Crunchy Veg taco + med fries \nQty: 125 Gms| Kcal: 316 | Carbs 41.7 Gms| Sugar: 8 Gms| Fat: 11.1 Gms| Saturated fat: 4.3 Gms| Protein: 10.7 Gms| Sodium: 780.5 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Fiery Chicken Wrap",
+        "price": "229",
+        "description": "Spicy Fried Chicken, Loads Of Sauces In Soft Tortilla Wrap. \nQty: 252 Gms| Kcal: 483.8 | Carbs 50.6 Gms| Sugar: 9.3 Gms| Fat: 22.5 Gms| Saturated fat: 8.2 Gms| Protein: 19.8 Gms| Sodium: 1176.5 Mg \nContains: Gluten, Soybean, Milk"
+    },
+    {
+        "name": "Veg Crunchy Taco",
+        "price": "90",
+        "description": "Crunchy Taco Shell Filled With Beans & Veg Mix, Chef'S Secret Sauce, Onion & Lettuce. \nQty: 105 Gms| Kcal: 336.1 | Carbs 33.7 Gms| Sugar: 7.1 Gms| Fat: 20.8 Gms| Saturated fat: 13.9 Gms| Protein: 3.6 Gms| Sodium: 589.6 Mg \nContains: Soybean, Milk"
+    },
+    {
+        "name": "Veg Makhani Burst Burger",
+        "price": "80",
+        "description": "Enjoy Makhani Flavour With Mix Veg Patty Topped Up With Onion \nQty: 135 Gms| Kcal: 315 | Carbs 48.5 Gms| Sugar: 8 Gms| Fat: 9.2 Gms| Saturated fat: 3.4 Gms| Protein: 9.6 Gms| Sodium: 768 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Crispy Chicken Burger",
+        "price": "99",
+        "description": "Crispy Chicken Patty, Onion & Our Signature Tomato Herby Sauce. \nQty: 125 Gms| Kcal: 359.1 | Carbs 44.3 Gms| Sugar: 7.5 Gms| Fat: 15.1 Gms| Saturated fat: 4.8 Gms| Protein: 11.5 Gms| Sodium: 592.4 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Crispy Veg Double Patty Burger",
+        "price": "99",
+        "description": "Double Masaledar Veg Patty, Onion & Our Signature Tomato Herby Sauce. \nQty: 204 Gms| Kcal: 531.4 | Carbs 70.6 Gms| Sugar: 9.1 Gms| Fat: 22.7 Gms| Saturated fat: 9.2 Gms| Protein: 11.2 Gms| Sodium: 1068 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Crispy Veg with Cheese Slice",
+        "price": "95",
+        "description": "Masaledar Veg Patty, Onion & Our Signature Tomato Herby Sauce. \nQty: 149 Gms| Kcal: 403.2 | Carbs 53.9 Gms| Sugar: 7 Gms| Fat: 16 Gms| Saturated fat: 6.9 Gms| Protein: 10.8 Gms| Sodium: 980.2 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Crunchy Chicken Taco",
+        "price": "119",
+        "description": "Crunchy Taco Shell With Chicken Patty, Veggies And Spicy Sauce. \nQty: 135 Gms| Kcal: 262 | Carbs 24.8 Gms| Sugar: 2.9 Gms| Fat: 16 Gms| Saturated fat: 5.5 Gms| Protein: 5.1 Gms| Sodium: 525.9 Mg \nContains: Soybean, Milk"
+    },
+    {
+        "name": "Crispy Chicken with Cheese Slice",
+        "price": "124",
+        "description": "Crispy Chicken Patty, Onion & Our Signature Tomato Herby Sauce with Cheese Slice. \nQty: 137 Gms| Kcal: 400.1 | Carbs 44.8 Gms| Sugar: 8 Gms| Fat: 18.3 Gms| Saturated fat: 6.8 Gms| Protein: 13.9 Gms| Sodium: 774.4 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Crispy Chicken Double Patty Burger",
+        "price": "139",
+        "description": "Double Crispy Chicken Patty, Onion & Our Signature Tomato Herby Sauce.\nQty: 182 Gms| Kcal: 535.1 | Carbs 52.7 Gms| Sugar: 10.2 Gms| Fat: 28.3 Gms| Saturated fat: 10.4 Gms| Protein: 17.4 Gms| Sodium: 887.1 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Crispy Veg Double Patty with Cheese Slice",
+        "price": "124",
+        "description": "Crispy Veg Double Patty with Cheese Slice \nQty: 216 Gms| Kcal: 572.4 | Carbs 71.1 Gms| Sugar: 9.6 Gms| Fat: 25.9 Gms| Saturated fat: 11.2 Gms| Protein: 13.6 Gms| Sodium: 1250 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "BK Veggie Burger",
+        "price": "139",
+        "description": "BK Veg Patty, Lettuce, Tomato(Seasonal) & Our Signature Mayo Sauce. \nQty: 152 Gms| Kcal: 352.5 | Carbs 45.4 Gms| Sugar: 7.8 Gms| Fat: 13.6 Gms| Saturated fat: 4.7 Gms| Protein: 12 Gms| Sodium: 593.8 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "BK Chicken Burger",
+        "price": "149",
+        "description": "BK Chicken Patty, Lettuce, Tomato(Seasonal) & Our Signature Mayo Sauce. \nQty: 164 Gms| Kcal: 415 | Carbs 39 Gms| Sugar: 7.2 Gms| Fat: 21.2 Gms| Saturated fat: 7.2 Gms| Protein: 17 Gms| Sodium: 283.9 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "BK Veggie Double Patty Burger",
+        "price": "159",
+        "description": "No description"
+    },
+    {
+        "name": "Whopper Jr Veg",
+        "price": "149",
+        "description": "Our Signature Whopper with Crunchy Veg Patty, Onions, Lettuce, Tomatoes (Seasonal), Gherkins, Creamy And Smoky Sauces \nQty: 194 Gms| Kcal: 456 | Carbs 61.6 Gms| Sugar: 9.2 Gms| Fat: 20 Gms| Saturated fat: 11.9 Gms| Protein: 7.2 Gms| Sodium: 1428.1 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Crispy Chicken Double Patty with Cheese Slice",
+        "price": "164",
+        "description": "Crispy Chicken Double Patty with Cheese Slice \nQty: 194 Gms| Kcal: 576.1 | Carbs 53.2 Gms| Sugar: 10.7 Gms| Fat: 31.5 Gms| Saturated fat: 12.4 Gms| Protein: 19.8 Gms| Sodium: 1069.1 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "Whopper Jr Chicken",
+        "price": "169",
+        "description": "Our Signature Whopper with Flame Grilled Chicken Patty, Onions, Lettuce, Tomatoes (Seasonal), Gherkins, Creamy And Smoky Sauces \nQty: 167 Gms| Kcal: 369 | Carbs 43.4 Gms| Sugar: 8.4 Gms| Fat: 13.7 Gms| Saturated fat: 6.2 Gms| Protein: 18 Gms| Sodium: 1314.3 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "BK Chicken Double Patty Burger",
+        "price": "179",
+        "description": "BK Chicken Double patty\nQty: | Kcal: 0 | Carbs 0 Gms| Sugar: 0 Gms| Fat: 0 Gms| Saturated fat: 0 Gms| Protein: 0 Gms| Sodium: 0 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Mutton Whopper Jr",
+        "price": "219",
+        "description": "No description"
+    },
+    {
+        "name": "2 Crispy Veg",
+        "price": "140",
+        "description": "2 Crispy Veg \nQty: 274 Gms| Kcal: 724.4 | Carbs 106.8 Gms| Sugar: 13 Gms| Fat: 25.6 Gms| Saturated fat: 9.7 Gms| Protein: 16.8 Gms| Sodium: 1596.4 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Crispy Veg Double Patty + Crispy Veg Double Patty",
+        "price": "198",
+        "description": "2 Crispy Veg Double patty \nQty: 408 Gms| Kcal: 1062.8 | Carbs 141.2 Gms| Sugar: 18.2 Gms| Fat: 45.4 Gms| Saturated fat: 18.4 Gms| Protein: 22.4 Gms| Sodium: 2136 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Veg Makhani Burst + Whopper Jr Veg",
+        "price": "229",
+        "description": "Veg Makhani + Whopper Jr Veg \nQty: 329 Gms| Kcal: 771 | Carbs 110.1 Gms| Sugar: 17.2 Gms| Fat: 29.2 Gms| Saturated fat: 15.3 Gms| Protein: 16.8 Gms| Sodium: 2196.1 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "BK Veggie Burger + BK Veggie Burger",
+        "price": "278",
+        "description": "2 BK Veggie \nQty: 304 Gms| Kcal: 705.1 | Carbs 90.9 Gms| Sugar: 15.6 Gms| Fat: 27.3 Gms| Saturated fat: 9.4 Gms| Protein: 24 Gms| Sodium: 1187.6 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Crispy Chicken Double Patty + Crispy Chicken Double Patty",
+        "price": "278",
+        "description": "2 Crispy Chicken Double Patty \nQty: 364 Gms| Kcal: 1070.2 | Carbs 105.4 Gms| Sugar: 20.4 Gms| Fat: 56.6 Gms| Saturated fat: 20.8 Gms| Protein: 34.8 Gms| Sodium: 1774.1 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Chicken Makhani Burst + Whopper Jr Chicken",
+        "price": "278",
+        "description": "Chicken Makhani Burst + Whopper Jr Chicken \nQty: 292 Gms| Kcal: 685 | Carbs 85.1 Gms| Sugar: 16.4 Gms| Fat: 24.8 Gms| Saturated fat: 10.5 Gms| Protein: 28.7 Gms| Sodium: 2094.8 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "BK Chicken Burger + BK Chicken Burger",
+        "price": "298",
+        "description": "2 BK Chicken \nQty: 328 Gms| Kcal: 830 | Carbs 78 Gms| Sugar: 14.4 Gms| Fat: 42.4 Gms| Saturated fat: 14.4 Gms| Protein: 34 Gms| Sodium: 567.8 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Veg Whopper + Veg Whopper",
+        "price": "378",
+        "description": "2 Veg Whopper \nQty: 570 Gms| Kcal: 1362.4 | Carbs 194.2 Gms| Sugar: 46.2 Gms| Fat: 50.8 Gms| Saturated fat: 19.6 Gms| Protein: 31.6 Gms| Sodium: 1975.6 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Chicken Whopper + Chicken Whopper",
+        "price": "418",
+        "description": "2 Chicken Whopper \nQty: 560 Gms| Kcal: 1334.4 | Carbs 118.2 Gms| Sugar: 17.4 Gms| Fat: 72.6 Gms| Saturated fat: 16.2 Gms| Protein: 52.4 Gms| Sodium: 2037.4 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "4 Crispy Veg + 2 Medium Fries",
+        "price": "400",
+        "description": "4 Crispy Veg + 2 Medium Fries \nQty: 728 Gms| Kcal: 2101.2 | Carbs 1068.1 Gms| Sugar: 29.9 Gms| Fat: 89.2 Gms| Saturated fat: 32.7 Gms| Protein: 57.6 Gms| Sodium: 3427.2 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "6 Crispy Veg",
+        "price": "350",
+        "description": "Qty: 822 Gms| Kcal: 2173.2 | Carbs 320.4 Gms| Sugar: 39 Gms| Fat: 76.8 Gms| Saturated fat: 29.1 Gms| Protein: 50.4 Gms| Sodium: 4789.2 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "6 Crispy Chicken",
+        "price": "495",
+        "description": "6 Crispy Chicken \nQty: 750 Gms| Kcal: 2154.3 | Carbs 266 Gms| Sugar: 44.8 Gms| Fat: 90.6 Gms| Saturated fat: 28.7 Gms| Protein: 68.7 Gms| Sodium: 3554.4 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "4 Crispy Chicken + 2 Medium Fries",
+        "price": "480",
+        "description": "4 Crispy Chicken + 2 Medium Fries \nQty: 728 Gms| Kcal: 2101.2 | Carbs 1068.1 Gms| Sugar: 29.9 Gms| Fat: 89.2 Gms| Saturated fat: 32.7 Gms| Protein: 57.6 Gms| Sodium: 3427.2 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "Veggie Strips(5Pcs) + 1 Dip",
+        "price": "72.81",
+        "description": "Veggie Strips(5Pcs) + 1 Dip \nQty: 105 Gms| Kcal: 328.1 | Carbs 33.5 Gms| Sugar: 5.3 Gms| Fat: 19.3 Gms| Saturated fat: 7 Gms| Protein: 5.1 Gms| Sodium: 635.4 Mg \nContains: Gluten, Soybean , Milk"
+    },
+    {
+        "name": "1 Crispy Veg Double Patty+1 Classic Cold Coffee",
+        "price": "243",
+        "description": "Save Rs. 50 | 1 Crispy Veg Double Patty+1 Classic Cold Coffee \nQty: 554 Gms| Kcal: 746.4 | Carbs 94.8 Gms| Sugar: 18 Gms| Fat: 32.2 Gms| Saturated fat: 30.2 Gms| Protein: 18.2 Gms| Sodium: 1208 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "1 Jr Veg Whopper +1 Chocolate Thick Shake",
+        "price": "269",
+        "description": "Save Rs. 49 | 1 Jr. Veg Whopper +1 Chocolate Thick Shake \nQty: 194 Gms, 300 ML| Kcal: 952.1 | Carbs 149.2 Gms| Sugar: 70.7 Gms| Fat: 31.3 Gms| Saturated fat: 19 Gms| Protein: 18.2 Gms| Sodium: 1438.8 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "Hot 'N' Saucy Bite",
+        "price": "270",
+        "description": "MRP 318 | Hot n Saucy + Med Fries.\nQty: 369 Gms| Kcal: 1014.5 | Carbs 527.4 Gms| Sugar: 17.5 Gms| Fat: 45.8 Gms| Saturated fat: 18.9 Gms| Protein: 23.8 Gms| Sodium: 1727.3 Mg \nContains: Gluten, Soybean, Milk"
+    },
+    {
+        "name": "Fire Me Up",
+        "price": "270",
+        "description": "MRP 318 | Fiery Chicken Burger + Med Fries.\nQty: 361 Gms| Kcal: 920.5 | Carbs 509.4 Gms| Sugar: 12.1 Gms| Fat: 41 Gms| Saturated fat: 15.5 Gms| Protein: 29 Gms| Sodium: 1630.1 Mg \nContains: Soybean, Milk"
+    },
+    {
+        "name": "1 Crispy Chicken+1 Classic Cold Coffee",
+        "price": "243",
+        "description": "Save Rs.  50 | 1 Crispy Chicken+1 Classic Cold Coffee \nQty: 475 Gms| Kcal: 574.1 | Carbs 68.5 Gms| Sugar: 16.3 Gms| Fat: 24.6 Gms| Saturated fat: 25.7 Gms| Protein: 18.4 Gms| Sodium: 732.4 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "2 Classic Cold Coffee @139 each",
+        "price": "278",
+        "description": "2 Classic Cold Coffee \nQty: 700 Gms| Kcal: 430 | Carbs 48.3 Gms| Sugar: 17.7 Gms| Fat: 18.9 Gms| Saturated fat: 41.9 Gms| Protein: 13.9 Gms| Sodium: 280 Mg \nContains: Soybean, Milk"
+    },
+    {
+        "name": "1 Jr Chicken Whopper+1 Chocolate Thick Shake",
+        "price": "289",
+        "description": "Save Rs 49 | 1 Jr. Chicken Whopper+1 Chocolate Thick Shake \nQty: 167 Gms, 300 ML| Kcal: 865.1 | Carbs 131.1 Gms| Sugar: 69.8 Gms| Fat: 25 Gms| Saturated fat: 13.3 Gms| Protein: 29 Gms| Sodium: 1325 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "Fiery Twins",
+        "price": "338",
+        "description": "MRP 398 |  2 Fiery Chicken Burgers.\nQty: 494 Gms| Kcal: 1176 | Carbs 128 Gms| Sugar: 24.1 Gms| Fat: 53.2 Gms| Saturated fat: 17.4 Gms| Protein: 46.1 Gms| Sodium: 2202.6 Mg \nContains: Gluten, Soybean, Milk"
+    },
+    {
+        "name": "Hot 'N' Saucy Twins",
+        "price": "338",
+        "description": "MRP 398 |  2 Hot N Saucy Burgers.\nQty: 510 Gms| Kcal: 1364 | Carbs 164 Gms| Sugar: 35 Gms| Fat: 62.8 Gms| Saturated fat: 24.1 Gms| Protein: 35.8 Gms| Sodium: 2397 Mg \nContains: Gluten, Soybean, Milk"
+    },
+    {
+        "name": "2 Crispy Veg Double Patty + 1King Fries + 1Veggie strips",
+        "price": "396",
+        "description": "Qty: 605 Gms| Kcal: 1772 | Carbs 745 Gms| Sugar: 23.9 Gms| Fat: 88.2 Gms| Saturated fat: 35.8 Gms| Protein: 47.6 Gms| Sodium: 2939.2 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "2Crispy Chicken+1King Fries+1Cold Coffee+1Coca Cola Medium",
+        "price": "507",
+        "description": "Save Rs. 115 | 2 Crispy Chicken + 1 King Fries + 1 Cold Coffee + 1 Coca Cola Medium.\nKcal: 1578.2 | Carbs 774.3 Gms| Sugar: 75.8 Gms| Fat: 59.4 Gms| Saturated fat: 39.8 Gms| Protein: 37.9 Gms| Sodium: 2086.5 Mg \nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "Crispy Veg + Med Fries + Chocolate Thick Shake",
+        "price": "265",
+        "description": "Save Rs 99 | Crispy Veg + Medium Fries + chocolate thick shake \nQty: 251 Gms, 300 ML| Kcal: 694.7 | Carbs 498.8 Gms| Sugar: 6.5 Gms| Fat: 27.2 Gms| Saturated fat: 11.7 Gms| Protein: 14.3 Gms| Sodium: 1327 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Crispy Chicken + Med Fries + Chocolate Thick Shake",
+        "price": "285",
+        "description": "Save Rs 99 | Crispy Chicken + Medium Fries + chocolate thick shake \nQty: 239 Gms, 300 ML| Kcal: 1187.6 | Carbs 580.6 Gms| Sugar: 68.9 Gms| Fat: 40.8 Gms| Saturated fat: 18.8 Gms| Protein: 28.3 Gms| Sodium: 1131.9 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "BK Veggie + Med Fries + Chocolate Thick Shake",
+        "price": "314",
+        "description": "Save Rs 99 | BK Veggie + Medium Fries + chocolate thick shake \nQty: 219 Gms, 300 ML| Kcal: 1164.7 | Carbs 566.8 Gms| Sugar: 68.5 Gms| Fat: 46.5 Gms| Saturated fat: 27.9 Gms| Protein: 20.5 Gms| Sodium: 1129.1 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "BK Chicken + Med Fries + Chocolate Thick Shake",
+        "price": "334",
+        "description": "Save Rs 99 | BK Chicken + Medium Fries + chocolate thick shake \nQty: 278 Gms, 300 ML| Kcal: 1243.6 | Carbs 572.1 Gms| Sugar: 68.6 Gms| Fat: 46.9 Gms| Saturated fat: 21.2 Gms| Protein: 33.9 Gms| Sodium: 823.4 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Veg Whopper + Med Fries + Chocolate Thick Shake",
+        "price": "374",
+        "description": "Save Rs 99 | Veg Whopper + Med Fries + Chocolate thick shake \nQty: 399 Gms, 300 ML| Kcal: 1509.8 | Carbs 630.2 Gms| Sugar: 84.5 Gms| Fat: 51.1 Gms| Saturated fat: 23.8 Gms| Protein: 32.7 Gms| Sodium: 1527.3 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Chicken Whopper + Med Fries + Chocolate Thick Shake",
+        "price": "394",
+        "description": "Save Rs 99 | Chicken Whopper + Med Fries + Chocolate thick shake \nQty: 394 Gms, 300 ML| Kcal: 1495.8 | Carbs 592.2 Gms| Sugar: 70.1 Gms| Fat: 62 Gms| Saturated fat: 22.1 Gms| Protein: 43.1 Gms| Sodium: 1558.2 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Paneer Royale + Med Fries + Chocolate Thick Shake",
+        "price": "394",
+        "description": "Save Rs 99 | Paneer Royale + Med Fries + Chocolate thick shake \nQty: 369 Gms, 300 ML| Kcal: 1386.1 | Carbs 617.1 Gms| Sugar: 76.2 Gms| Fat: 54.7 Gms| Saturated fat: 28 Gms| Protein: 35.8 Gms| Sodium: 1717.5 Mg \nContains: Gluten, Soybean, Milk"
+    },
+    {
+        "name": "Fiery Chicken + Med Fries + Chocolate Thick Shake",
+        "price": "394",
+        "description": "Save Rs 99 | Fiery Chicken + Med Fries + Chocolate thick shake \nQty: 361 Gms, 300 ML| Kcal: 1416.6 | Carbs 597.1 Gms| Sugar: 73.5 Gms| Fat: 52.3 Gms| Saturated fat: 22.7 Gms| Protein: 39.9 Gms| Sodium: 1640.8 Mg \nContains: Gluten, Soybean, Milk"
+    },
+    {
+        "name": "Iced Americano",
+        "price": "180",
+        "description": "Our signature Arabica espresso with ice\nQty: 330 GmsML| Kcal: 9.9 | Carbs 0.19 Gms| Sugar: 0 Gms| Fat: 0 Gms| Saturated fat: 0 Gms| Protein: 2.31 Gms| Sodium: 4.7 Mg"
+    },
+    {
+        "name": "Masala Chai",
+        "price": "109",
+        "description": "Masala Chai \nQty: 200 Gms| Kcal: 84 | Carbs 15.8 Gms| Sugar: 1.1 Gms| Fat: 2.7 Gms| Saturated fat: 11.2 Gms| Protein: 0.7 Gms| Sodium: 36.2 Mg \nContains: Milk"
+    },
+    {
+        "name": "Americano (Small)",
+        "price": "159",
+        "description": "No description"
+    },
+    {
+        "name": "Cappuccino (Small)",
+        "price": "159",
+        "description": "Small Cappuccino @ 99 \nQty: 240 Gms| Kcal: 101 | Carbs 9.8 Gms| Sugar: 4.3 Gms| Fat: 5.8 Gms| Saturated fat: 0 Gms| Protein: 3 Gms| Sodium: 72 Mg \nContains: Milk"
+    },
+    {
+        "name": "Caf\u00e9 Latte (Small)",
+        "price": "159",
+        "description": "Our Signature Bk Caf\u00e9\u00a9 Coffee With Steamed Milk. \nQty: 240 Gms| Kcal: 110 | Carbs 9.8 Gms| Sugar: 4.9 Gms| Fat: 6.5 Gms| Saturated fat: 0 Gms| Protein: 3.4 Gms| Sodium: 79.2 Mg \nContains: Milk"
+    },
+    {
+        "name": "Americano (Regular)",
+        "price": "189",
+        "description": "No description"
+    },
+    {
+        "name": "Cappuccino (Regular)",
+        "price": "189",
+        "description": "Espresso With Steamed Milk & Milk Froth. \nQty: 330 Gms| Kcal: 138.9 | Carbs 13.5 Gms| Sugar: 5.9 Gms| Fat: 7.9 Gms| Saturated fat: 0 Gms| Protein: 4.1 Gms| Sodium: 99 Mg \nContains: Milk"
+    },
+    {
+        "name": "Mocha Cappuccino (Small)",
+        "price": "199",
+        "description": "Our Signature Bk Caf\u00e9\u00a9 Coffee With Chocolate Flavour \nQty: 240 Gms| Kcal: 246 | Carbs 41 Gms| Sugar: 6.6 Gms| Fat: 5.8 Gms| Saturated fat: 26.4 Gms| Protein: 4.3 Gms| Sodium: 57.6 Mg \nContains: Soybean, Milk"
+    },
+    {
+        "name": "Caf\u00e9 Latte (Regular)",
+        "price": "189",
+        "description": "Our Signature Bk Caf\u00e9\u00a9 Coffee With Steamed Milk. \nQty: 330 Gms| Kcal: 151 | Carbs 13.5 Gms| Sugar: 6.8 Gms| Fat: 8.9 Gms| Saturated fat: 0 Gms| Protein: 4.8 Gms| Sodium: 108.9 Mg \nContains: Milk"
+    },
+    {
+        "name": "Classic Cold Coffee",
+        "price": "199",
+        "description": "Our signature BK Caf\u00e9 Coffee ice blended with milk & cream. Qty: 350 Gms| Kcal: 215 | Carbs 24.2 Gms| Sugar: 8.9 Gms| Fat: 9.5 Gms| Saturated fat: 21 Gms| Protein: 7 Gms| Sodium: 140 Mg \nContains: Soybean, Milk"
+    },
+    {
+        "name": "Mocha Cappuccino (Regular)",
+        "price": "229",
+        "description": "Our Signature Bk Caf\u00e9\u00a9 Coffee With Chocolate Flavour \nQty: 330 Gms| Kcal: 338.5 | Carbs 56.4 Gms| Sugar: 9 Gms| Fat: 7.9 Gms| Saturated fat: 36.4 Gms| Protein: 5.9 Gms| Sodium: 79.2 Mg \nContains: Soybean, Milk"
+    },
+    {
+        "name": "Mocha Frappe",
+        "price": "269",
+        "description": "Chocolate Flavoured Cold Coffee Topped With Cream \nQty: 350 Gms| Kcal: 328 | Carbs 48.3 Gms| Sugar: 10.4 Gms| Fat: 10.2 Gms| Saturated fat: 38.2 Gms| Protein: 8.7 Gms| Sodium: 94.5 Mg \nContains: Milk"
+    },
+    {
+        "name": "Iced Latte",
+        "price": "199",
+        "description": "100% Arabica Espresso poured over milk and ice. | Qty: 330 Gms| Kcal: 141.9 | Carbs 22.18 Gms| Sugar: 19.47 Gms| Fat: 2.97 Gms| Saturated fat: 0 Gms| Protein: 6.3 Gms| Sodium: 6.17 Mg\nContains: Gluten, Soybean , Milk , Sesame seeds"
+    },
+    {
+        "name": "Crispy Veg Combo (M)",
+        "price": "229",
+        "description": "Masaledar Veg Patty, Onion & Our Signature Tomato Herby Sauce. Served with Crispy Fries & Coca Cola. \nKcal: 888.7 | Carbs 547.9 Gms| Sugar: 54.2 Gms| Fat: 27.2 Gms| Saturated fat: 11.7 Gms| Protein: 14.3 Gms| Sodium: 1365.3 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Crispy Chicken Combo (M)",
+        "price": "267",
+        "description": "Crispy Chicken Patty, Onion & Our Signature Tomato Herby Sauce. Served with Crispy Fries & Cola. \nKcal: 881.7 | Carbs 541.7 Gms| Sugar: 59.5 Gms| Fat: 29.5 Gms| Saturated fat: 11.6 Gms| Protein: 17.4 Gms| Sodium: 1159.2 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "BK Veggie Burger Combo (M)",
+        "price": "278",
+        "description": "BK Veg Patty, Lettuce, Tomato(Seasonal) & Our Signature Mayo Sauce. Served with Crispy Fries & Coca Cola. \nKcal: 875.1 | Carbs 542.8 Gms| Sugar: 59.8 Gms| Fat: 28 Gms| Saturated fat: 11.5 Gms| Protein: 17.9 Gms| Sodium: 1160.6 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "BK Chicken Burger Combo (M)",
+        "price": "288",
+        "description": "BK Chicken Patty, Lettuce, Tomato(Seasonal) & Our Signature Mayo Sauce. Served With Crispy Fries & Coca Cola. \nKcal: 937.6 | Carbs 536.4 Gms| Sugar: 59.2 Gms| Fat: 35.6 Gms| Saturated fat: 14 Gms| Protein: 22.9 Gms| Sodium: 850.7 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Whopper Jr Veg Combo (M)",
+        "price": "268",
+        "description": "Our Signature Whopper with Crunchy Veg Patty, Onions, Lettuce, Tomatoes (Seasonal), Gherkins, Creamy And Smoky Sauces. Served With Crispy Fries & Coca Cola. \nKcal: 978.6 | Carbs 558.9 Gms| Sugar: 61.2 Gms| Fat: 34.4 Gms| Saturated fat: 18.7 Gms| Protein: 13.1 Gms| Sodium: 1994.9 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Whopper Jr Chicken Combo (M)",
+        "price": "288",
+        "description": "Our Signature Whopper with Flame Grilled Chicken Patty, Onions, Lettuce, Tomatoes (Seasonal), Gherkins, Creamy And Smoky Sauces. Served With Crispy Fries & Coca Cola. \nKcal: 891.6 | Carbs 540.8 Gms| Sugar: 60.4 Gms| Fat: 28.1 Gms| Saturated fat: 13 Gms| Protein: 23.9 Gms| Sodium: 1881.1 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Veg Whopper Combo (M)",
+        "price": "328",
+        "description": "Our Signature Whopper with Crunchy Veg Patty, Onions, Lettuce, Tomatoes (Seasonal), Gherkins, Creamy And Smoky Sauces With Xxl Buns. Served With Crispy Fries & Coca Cola. \nKcal: 1203.8 | Carbs 594.5 Gms| Sugar: 75.1 Gms| Fat: 39.8 Gms| Saturated fat: 16.6 Gms| Protein: 21.7 Gms| Sodium: 1554.6 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Chicken Whopper Combo (M)",
+        "price": "358",
+        "description": "Our Signature Whopper with Flame Grilled Chicken Patty, Onions, Lettuce, Tomatoes (Seasonal), Gherkins, Creamy And Smoky Sauces With Xxl Buns. Served With Crispy Fries & Coca Cola. \nKcal: 1189.8 | Carbs 556.5 Gms| Sugar: 60.7 Gms| Fat: 50.7 Gms| Saturated fat: 14.9 Gms| Protein: 32.1 Gms| Sodium: 1585.5 Mg \nContains: Gluten, Soybean, Milk, Sesame seeds"
+    },
+    {
+        "name": "Hot 'N' Saucy Burger Combo (M)",
+        "price": "358",
+        "description": "Chilli Creamy Patty, Spicy Sauce, Square Masala Buns. Served With Crispy Fries & Coca Cola.\nKcal: 1204.6 | Carbs 579.4 Gms| Sugar: 69.5 Gms| Fat: 45.8 Gms| Saturated fat: 18.9 Gms| Protein: 23.8 Gms| Sodium: 1765.3 Mg \nContains: Soybean, Milk"
+    },
+    {
+        "name": "Fiery Chicken Burger Combo (M)",
+        "price": "368",
+        "description": "Spicy Fried Chicken, Loads Of Sauces In Square Masala Buns. Served With Crispy Fries & Coca Cola. \nKcal: 1110.6 | Carbs 561.4 Gms| Sugar: 64.1 Gms| Fat: 41 Gms| Saturated fat: 15.5 Gms| Protein: 29 Gms| Sodium: 1668.1 Mg \nContains: Gluten, Soybean, Milk"
+    },
+    {
+        "name": "Paneer Royale Burger Combo (M)",
+        "price": "358",
+        "description": "60 gm Paneer Patty, Sauces In Square Masala Buns. Served With Crispy Fries & Coca Cola. \nKcal: 1080.1 | Carbs 581.4 Gms| Sugar: 66.8 Gms| Fat: 43.4 Gms| Saturated fat: 20.8 Gms| Protein: 24.8 Gms| Sodium: 1744.8 Mg \nContains: Gluten, Soybean, Milk"
+    },
+    {
+        "name": "Chicken Tandoori Burger Combo (M)",
+        "price": "358",
+        "description": "Save Rs.60 | Boneless Wings Regular + Coca Cola. \nKcal: 1025.3 | Carbs 560.1 Gms| Sugar: 58.9 Gms| Fat: 29.4 Gms| Saturated fat: 15.6 Gms| Protein: 35.3 Gms| Sodium: 1673.6 Mg \nContains: Gluten, Soybean, Milk"
+    },
+    {
+        "name": "(4Pc) Crunchy Chicken Nuggets",
+        "price": "95",
+        "description": "Tender Crunchy Chicken Nuggets Fried To Golden Brown Perfection. \nQty: 70 Gms| Kcal: 168.7 | Carbs 14.3 Gms| Sugar: 0.3 Gms| Fat: 7.5 Gms| Saturated fat: 3.8 Gms| Protein: 10.9 Gms| Sodium: 5.9 Mg \nContains: Soybean, Milk"
+    },
+    {
+        "name": "BK Veg Pizza Puff",
+        "price": "59",
+        "description": "\"Crispy savoury pastry with a filling of tomato sauce with corn, carrots, bell peppers, peas and mozzarella. Caution: Served Hot. \nQty: 80 Gms| Kcal: 208 | Carbs 27.56 Gms| Sugar: 1.28 Gms| Fat: 8.04 Gms| Saturated fat: 4.6 Gms| Protein: 6.3 Gms| Sodium: 341 Mg \nContains: Gluten, Soybean , Milk \""
+    },
+    {
+        "name": "BK Chicken Pizza Puff",
+        "price": "89",
+        "description": "\"Crispy puff snack filled with juicy diced chicken, tasty mix veg tomato sauce and mozzarella. Caution: Served Hot.\nQty: 80 Gms| Kcal: 234.4 | Carbs 26.2 Gms| Sugar: 1.92 Gms| Fat: 11.11 Gms| Saturated fat: 3.36 Gms| Protein: 7.34 Gms| Sodium: 345.68 Mg \nContains: Gluten, Soybean , Milk \""
+    },
+    {
+        "name": "(6Pc) Crunchy Chicken Nuggets + 1 Dip",
+        "price": "169",
+        "description": "Tender Crunchy Chicken Nuggets Fried To Golden Brown Perfection. Served With 1 Dip \nQty: 126 Gms| Kcal: 336.9 | Carbs 25 Gms| Sugar: 2.2 Gms| Fat: 18.8 Gms| Saturated fat: 7 Gms| Protein: 16.8 Gms| Sodium: 283 Mg \nContains: Soybean, Milk"
+    },
+    {
+        "name": "Fiery Hell Dip",
+        "price": "23.81",
+        "description": "Qty: 20 Gms| Kcal: 81.4 | Carbs 3.3 Gms| Sugar: 1.8 Gms| Fat: 7.4 Gms| Saturated fat: 1.3 Gms| Protein: 0.3 Gms| Sodium: 194 Mg \nContains:  Soybean , Milk"
+    },
+    {
+        "name": "Masala Hashbrown",
+        "price": "49",
+        "description": "Fried golden brown potatoes with a desi masala twist.\nQty: 60 Gms| Kcal: 158 | Carbs 19.7 Gms| Sugar: 1 Gms| Fat: 8.1 Gms| Saturated fat: 3.9 Gms| Protein: 1.7 Gms| Sodium: 500 Mg\nContains: Gluten, Soybean"
+    },
+    {
+        "name": "Peri Peri Spice Mix",
+        "price": "28.57",
+        "description": "Peri Peri Spice Mix. \nQty: 5 Gms| Kcal: 12.8 | Carbs 2.2 Gms| Sugar: 0.9 Gms| Fat: 0.3 Gms| Saturated fat: 0 Gms| Protein: 0.4 Gms| Sodium: 470 Mg \nContains:  Soybean"
+    },
+    {
+        "name": "Veggie Strips(5 Pcs)",
+        "price": "59",
+        "description": "Qty: 85 Gms| Kcal: 246.8 | Carbs 30.1 Gms| Sugar: 3.5 Gms| Fat: 11.9 Gms| Saturated fat: 5.7 Gms| Protein: 4.8 Gms| Sodium: 441.4 Mg \nContains: Gluten, Soybean"
+    },
+    {
+        "name": "Medium Fries",
+        "price": "119",
+        "description": "The Perfect Crispy Partner.\nQty: 114 Gms| Kcal: 332.5 | Carbs 445.39 Gms| Sugar: 0 Gms| Fat: 14.4 Gms| Saturated fat: 6.8 Gms| Protein: 5.9 Gms| Sodium: 528.8 Mg \nContains: Gluten"
+    },
+    {
+        "name": "King Fries",
+        "price": "139",
+        "description": "The Perfect Crispy Partner \nQty: 156 Gms| Kcal: 455 | Carbs 609.48 Gms| Sugar: 0 Gms| Fat: 19.7 Gms| Saturated fat: 9.31 Gms| Protein: 8 Gms| Sodium: 723.7 Mg \nContains: Gluten"
+    },
+    {
+        "name": "Saucy Fries",
+        "price": "145",
+        "description": "No description"
+    },
+    {
+        "name": "Medium Peri Peri Fries",
+        "price": "144",
+        "description": "Crispy Fries With Tangy Peri Peri Spice.  \nQty: 119 Gms| Kcal: 345.3 | Carbs 447.6 Gms| Sugar: 0.9 Gms| Fat: 14.7 Gms| Saturated fat: 6.8 Gms| Protein: 6.3 Gms| Sodium: 998.8 Mg \nContains: Soybean, Milk"
+    },
+    {
+        "name": "King Peri Peri Fries",
+        "price": "159",
+        "description": "Crispy Fries With Tangy Peri Peri Spice.  \nQty: 161 Gms| Kcal: 467.8 | Carbs 611.7 Gms| Sugar: 0.9 Gms| Fat: 20 Gms| Saturated fat: 9.3 Gms| Protein: 8.4 Gms| Sodium: 1193.7 Mg \nContains: Gluten, Soybean"
+    },
+    {
+        "name": "Peri Peri Fries",
+        "price": "144",
+        "description": "No description"
+    },
+    {
+        "name": "Coca Cola Medium",
+        "price": "95",
+        "description": "No description"
+    },
+    {
+        "name": "Fanta Medium",
+        "price": "95",
+        "description": "No description"
+    },
+    {
+        "name": "Sprite Medium",
+        "price": "95",
+        "description": "No description"
+    },
+    {
+        "name": "Berry Blast Thick Shake",
+        "price": "189",
+        "description": "Our Signature Black Currant Thick Shake \nQty: 300 ML| Kcal: 474 | Carbs 90.9 Gms| Sugar: 68.2 Gms| Fat: 8.8 Gms| Saturated fat: 6 Gms| Protein: 7.9 Gms| Sodium: 150.9 Mg \nContains: Soybean, Milk"
+    },
+    {
+        "name": "Chocolate Thick Shake",
+        "price": "189",
+        "description": "Qty:  Gms300 ML| Kcal: 496.08 | Carbs 87.69 Gms| Sugar: 61.44 Gms| Fat: 11.28 Gms| Saturated fat: 7.17 Gms| Protein: 10.95 Gms| Sodium: 10.68 Mg \nContains: , Soybean , Milk"
+    },
+    {
+        "name": "Mango Thick Shake",
+        "price": "189",
+        "description": "Our Signature Mango Thick Shake. \nQty: 300 ML| Kcal: 393.3 | Carbs 65.2 Gms| Sugar: 57.5 Gms| Fat: 10 Gms| Saturated fat: 6.4 Gms| Protein: 10.7 Gms| Sodium: 8.9 Mg \nContains: Soybean, Milk"
+    },
+    {
+        "name": "Medium Thums Up",
+        "price": "95",
+        "description": "No description"
+    },
+    {
+        "name": "Choco Lava Cup",
+        "price": "109",
+        "description": "Melty Chocolate Filled In Cupcake \nQty: 80 Gms| Kcal: 349 | Carbs 44.4 Gms| Sugar: 16.9 Gms| Fat: 4.9 Gms| Saturated fat: 27.4 Gms| Protein: 3.6 Gms| Sodium: 112 Mg \nContains: Gluten, Soybean, Milk"
+    },
+    {
+        "name": "Chocolate Mousse Cup",
+        "price": "119",
+        "description": "Airy And Creamy Chocolate Mousse Topped With Chocolate Ganache And Choco Chips \nQty: 80 Gms| Kcal: 200 | Carbs 35 Gms| Sugar: 25 Gms| Fat: 5.7 Gms| Saturated fat: 4.4 Gms| Protein: 2.2 Gms| Sodium: 67 Mg \nContains: Soybean, Milk"
+    },
+    {
+        "name": "Chicken Wings Fried - Two Pieces",
+        "price": "99",
+        "description": "Chicken Wings Fried To Perfection. \nQty: 70 Gms| Kcal: 150 | Carbs 8.1 Gms| Sugar: 0 Gms| Fat: 9.3 Gms| Saturated fat: 3.6 Gms| Protein: 15.9 Gms| Sodium: 404 Mg \nContains: Gluten, Soybean, Milk"
+    },
+    {
+        "name": "Chicken Wings Fried - Four Pieces",
+        "price": "179",
+        "description": "Chicken Wings Fried To Perfection. \nQty: 140 Gms| Kcal: 300 | Carbs 16.2 Gms| Sugar: 0 Gms| Fat: 18.6 Gms| Saturated fat: 7.2 Gms| Protein: 31.8 Gms| Sodium: 807.8 Mg \nContains: Gluten, Soybean, Milk"
+    },
+    {
+        "name": "Chicken Wings Fried - Ten Pieces",
+        "price": "399",
+        "description": "Chicken Wings Fried To Perfection. \nQty: 350 Gms| Kcal: 750 | Carbs 40.1 Gms| Sugar: 0 Gms| Fat: 47 Gms| Saturated fat: 18.5 Gms| Protein: 79.9 Gms| Sodium: 2020 Mg \nContains: Gluten, Soybean, Milk"
+    },
+    {
+        "name": "Chicken Wings Fried - Fifteen Pieces",
+        "price": "579",
+        "description": "Chicken Wings Fried To Perfection. \nQty: 525 Gms| Kcal: 1125 | Carbs 60.8 Gms| Sugar: 0 Gms| Fat: 69.8 Gms| Saturated fat: 27 Gms| Protein: 119.3 Gms| Sodium: 3030 Mg \nContains: Gluten, Soybean, Milk"
+    },
+    {
+        "name": "Boneless Wings Regular",
+        "price": "169",
+        "description": "4Pcs Boneless Chicken Bites \nQty: 95 Gms| Kcal: 213 | Carbs 16 Gms| Sugar: 0 Gms| Fat: 9.2 Gms| Saturated fat: 5.2 Gms| Protein: 16.8 Gms| Sodium: 555 Mg \nContains: Gluten, Soybean, Milk"
+    },
+    {
+        "name": "Boneless Wings Large",
+        "price": "269",
+        "description": "7Pcs Boneless Chicken Bites \nQty: 165 Gms| Kcal: 371 | Carbs 27.9 Gms| Sugar: 0 Gms| Fat: 16 Gms| Saturated fat: 9.1 Gms| Protein: 29.2 Gms| Sodium: 963.8 Mg \nContains: Gluten, Soybean, Milk"
+    }
+]
