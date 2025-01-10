@@ -1,14 +1,21 @@
+# scrape.py (Your scraping logic)
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
-import psycopg2
 
 def scrape_menu():
     url = "https://www.swiggy.com/city/mumbai/burger-king-central-plaza-kalina-santacruz-east-rest78036"
     
-    driver = webdriver.Chrome()
+    # Set up headless Chrome options
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+    
+    driver = webdriver.Chrome(executable_path='/path/to/chromedriver', options=chrome_options)
     driver.get(url)
     
     try:
@@ -23,8 +30,6 @@ def scrape_menu():
     soup = BeautifulSoup(html, 'html.parser')
     
     menu_items = soup.find_all('div', {'data-testid': 'normal-dish-item'})
-    print(f"Menu Items Found: {len(menu_items)}")
-    
     menu_data = []
     for item in menu_items:
         item_name = item.find('div', {'class': 'sc-aXZVg cjJTeQ sc-hIUJlX gCYyvX'})
@@ -42,37 +47,3 @@ def scrape_menu():
         })
     
     return menu_data
-
-def store_data_in_postgresql(data):
-    print(f"Menu Data to Insert: {len(data)} records")
-
-    try:
-        with psycopg2.connect(
-            dbname="postgres",
-            user="postgres",
-            password="naufil9175",
-            host="localhost",
-            port="5433"
-        ) as connection:
-            with connection.cursor() as cursor:
-                cursor.execute("""
-                CREATE TABLE IF NOT EXISTS menu_items (
-                    id SERIAL PRIMARY KEY,
-                    name TEXT NOT NULL,
-                    price TEXT,
-                    description TEXT
-                )
-                """)
-                
-                cursor.executemany("""
-                INSERT INTO menu_items (name, price, description)
-                VALUES (%s, %s, %s)
-                """, [(item['name'], item['price'], item['description']) for item in data])
-                
-                print(f"Inserted {len(data)} records into the menu_items table.")
-    
-    except Exception as e:
-        print(f"Error: {e}")
-
-menu_data = scrape_menu()
-store_data_in_postgresql(menu_data)
