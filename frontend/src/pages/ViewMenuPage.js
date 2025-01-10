@@ -5,11 +5,10 @@ const ViewMenuPage = () => {
   const [menu, setMenu] = useState([]);
   const [loading, setLoading] = useState(true);
 
-  // Fetch the menu from the JSON file in the public folder
   useEffect(() => {
     const fetchMenu = async () => {
       try {
-        const response = await axios.get("/menu_data.json"); // Use relative path
+        const response = await axios.get("/menu_data.json");
         setMenu(response.data);
         setLoading(false);
       } catch (error) {
