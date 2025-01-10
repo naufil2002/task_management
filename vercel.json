@@ -3,17 +3,17 @@
     "builds": [
       {
         "src": "frontend/package.json",
-        "use": "@vercel/react"
+        "use": "@vercel/static-build"
       },
       {
-        "src": "scraping/index.py",
+        "src": "scraping/scrape.py",
         "use": "@vercel/python"
       }
     ],
     "routes": [
       {
         "src": "/api/scrape",
-        "dest": "/scraping/index.py"
+        "dest": "/scraping/scrape.py"
       },
       {
         "src": "/(.*)",
