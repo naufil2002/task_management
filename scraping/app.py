@@ -1,5 +1,5 @@
-from flask import Flask, jsonify
-from scrape import scrape_menu  # Import scrape_menu from scrape.py
+from flask import Flask, jsonify 
+from scrape import scrape_menu
 import psycopg2
 
 app = Flask(__name__)
@@ -34,7 +34,7 @@ def store_data_in_postgresql(data):
 
 @app.route('/scrape', methods=['GET'])
 def scrape():
-    menu_data = scrape_menu()  # Call the scraping function from scrape.py
+    menu_data = scrape_menu()
     store_data_in_postgresql(menu_data)
     return jsonify(menu_data)
 
